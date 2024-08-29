@@ -8,9 +8,12 @@ import { MetaMaskConnector } from "wagmi/connectors/metaMask";
 
 function App() {
   const { address, isConnected } = useAccount();
+
   const { connect } = useConnect({
     connector: new MetaMaskConnector(),
+
   });
+
 
   return (
 

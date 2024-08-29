@@ -7,12 +7,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
   width: 100vw;
-  background-color: rgb(25, 33, 52) !important;
-  background: rgb(25, 33, 52);
+  background-color: rgb(54, 136, 125) !important;
+  background: rgb(18, 70, 52);
   background: linear-gradient(
     180deg,
-    rgba(25, 33, 52, 1) 28%,
-    rgba(7, 8, 21, 1) 75%
+    rgb(108, 136, 128) 28%,
+    rgb(97, 131, 117) 75%
   );
   color: white;
 }

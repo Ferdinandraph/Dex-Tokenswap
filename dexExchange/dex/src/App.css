@@ -54,7 +54,7 @@ header {
 }
 
 .connectButton {
-  background-color: #243056; 
+  background-color: #21273a; 
   padding: 10px;
   padding-right: 20px;
   padding-left: 20px;
@@ -77,7 +77,7 @@ header {
 
 .link {
   text-decoration: none;
-  color: white;
+  color: rgb(226, 223, 223);
 }
 
 .tradeBox {
